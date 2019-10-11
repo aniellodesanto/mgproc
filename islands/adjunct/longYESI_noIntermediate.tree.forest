@@ -1,0 +1,50 @@
+CP, name=CPmatrix
+	[C',
+		[do]
+		[TP,
+		[TP, name=TPmatrix
+			[T',
+				[T1]
+				[$v$P,
+					[you, name=MatrixSubj]
+					[$v$',
+						[$v1$]
+						[worry]
+					]
+				]
+			]
+		]
+		[CP, name=CPembedded
+								[if]
+								[TP, name= TPembedded
+									[T',
+										[T2]
+										[$v$P,
+										[$v$P,
+											[DP, name = subj
+												[the]
+												[lawyer]
+											]
+											[$v$',
+												[$v2$]
+												[VP,
+													[forgets]
+													[what, name= what
+													]
+												]
+											]
+										]
+										[PP,
+									[at]
+									[DP,
+										[the]
+										[office]
+									]
+								]								
+								]
+								]
+								]
+						]
+	]
+	]
+]

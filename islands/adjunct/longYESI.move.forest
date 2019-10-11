@@ -1,0 +1,4 @@
+\draw[move = {nom}] (subj)      .. controls +(120:6em) and +(220:4em) .. (TPembedded);
+\draw[move = {nom}] (MatrixSubj)      .. controls +(120:6em) and +(220:4em) .. (TPmatrix);
+\draw[move = {wh},non-final] (what)      .. controls +(120:6em) and +(220:4em) .. (CPembedded);
+\draw[move = {wh}] (what)      .. controls +(220:14em) and +(220:14em) .. (CPmatrix);

@@ -1,0 +1,50 @@
+[CP, name=CPmatrix
+	[C',
+		[do]
+		[TP, name=TPmatrix
+			[T',
+				[T1]
+				[$v$P,
+					[you, name=subjMatrix]
+					[$v$',
+						[$v1$]
+						[VP,
+							[think]
+							[CP,
+								[C2]
+								[TP, name=TPembedded
+									[T',
+										[T2]
+										[$v$P,
+											[DP, name = subj
+												[the]
+												[NP,
+													[speech]
+													[PP,
+														[about]
+														[what, name= what
+														]
+													]
+												]
+											]
+											[$v$',
+												[$v2$]
+												[VP,
+													[interrupted]
+													[DP,
+													[the]
+													[show]
+													]
+												]
+											]
+										]
+									]
+								]
+							]
+						]
+					]
+				]
+			]
+		]
+	]
+]

@@ -1,0 +1,61 @@
+[CP, name=CPmatrix
+	[C',
+		[do]
+		[TP, name=TPmatrix
+			[T',
+				[T1]
+				[$v$P,
+					[you, name=MatrixSubj]
+					[$v$',
+						[$v1$]
+						[VP,
+							[think]
+							[CP, name=CPintermediate
+								[C',
+								[C2]
+								[TP, name=TPembedded
+									[T',
+										[T2]
+										[$v$P,
+											[DP, name = subj
+												[the]
+													[NP,
+														[gift]
+														[PP,
+															[from]
+															[who, name= who
+															]
+														]
+												]
+											]
+											[$v$',
+												[$v2$]
+												[VP,
+													[prompted]
+													[DP,
+												[the]
+													[NP,
+														[rumor]
+														[PP,
+															[about]
+															[DP,
+																[the]
+																[senator]
+															]
+														]
+												]
+											]
+												]
+											]
+										]
+									]
+								]
+							]
+						]	
+						]
+					]
+				]
+			]
+		]
+	]
+]

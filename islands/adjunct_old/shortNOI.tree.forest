@@ -1,0 +1,51 @@
+[CP, name=CPmatrix
+	[C',
+		[C1]
+		[TP, name=TPmatrix
+			[T',
+				[T1]
+				[$v$P,
+					[who, name=who]
+					[$v$',
+						[$v1$]
+						[VP,
+							[thinks]
+							[CP,
+								[that]
+								[TP, name=TPembedded
+									[T',
+										[T2]
+										[$v$P,
+										[$v$P,
+											[DP, name = subj
+												[the]
+												[lawyer]
+											]
+											[$v$',
+												[$v2$]
+												[VP,
+													[forgot]
+													[DP,
+													[his]
+													[briefcase]
+													]
+												]
+											]
+										]																[PP,
+									[at]
+									[DP,
+										[the]
+										[office]
+								]	
+								]
+									]
+								]							
+							]
+							]
+						]
+					]
+				]
+			]
+		]
+	]
+]

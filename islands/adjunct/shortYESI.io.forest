@@ -1,0 +1,103 @@
+\node[index]            at (CPmatrix)                 {1};
+\node[outdex]           at (CPmatrix)                 {2};
+%
+\node[index]            at (t1)                       {2};
+\node[outdex]           at (t1)                       {3};
+%
+\node[index]            at (t11)                      {3};
+\node[outdex, boxed]    at (t11)                      {9};
+%
+\node[index]            at (t12)                      {3};
+\node[outdex]           at (t12)                      {4};
+%
+\node[index]            at (TPmatrix)                 {4};
+\node[outdex]           at (TPmatrix)                 {5};
+%
+\node[index]            at (t1211)                    {5};
+\node[outdex]           at (t1211)                    {6};
+%
+\node[index]            at (t12111)                   {6};
+\node[outdex, boxed]    at (t12111)                  {10};
+%
+\node[index]            at (t12112)                   {6};
+\node[outdex]           at (t12112)                   {7};
+%
+\node[index]            at (who)                      {7};
+\node[outdex]           at (who)                      {8};
+%
+\node[index]            at (t121122)                  {7};
+\node[outdex, boxed]    at (t121122)                 {11};
+%
+\node[index]            at (t1211221)                {11};
+\node[outdex]           at (t1211221)                {12};
+%
+\node[index]            at (t1211222)                {11};
+\node[outdex]           at (t1211222)                {13};
+%
+\node[index]            at (t122)                     {4};
+\node[outdex, boxed]    at (t122)                    {14};
+%
+\node[index]            at (t1221)                   {14};
+\node[outdex]           at (t1221)                   {15};
+%
+\node[index]            at (TPembedded)              {14};
+\node[outdex]           at (TPembedded)              {16};
+%
+\node[index]            at (t12221)                  {16};
+\node[outdex]           at (t12221)                  {17};
+%
+\node[index]            at (t122211)                 {17};
+\node[outdex, boxed]    at (t122211)                 {23};
+%
+\node[index]            at (t122212)                 {17};
+\node[outdex]           at (t122212)                 {18};
+%
+\node[index]            at (t1222121)                {18};
+\node[outdex]           at (t1222121)                {19};
+%
+\node[index]            at (subj)                    {19};
+\node[outdex]           at (subj)                    {20};
+%
+\node[index]            at (t122212111)              {20};
+\node[outdex]           at (t122212111)              {21};
+%
+\node[index]            at (t122212112)              {20};
+\node[outdex]           at (t122212112)              {22};
+%
+\node[index]            at (t12221212)               {19};
+\node[outdex, boxed]    at (t12221212)               {24};
+%
+\node[index]            at (t122212121)              {24};
+\node[outdex]           at (t122212121)              {25};
+%
+\node[index]            at (t122212122)              {24};
+\node[outdex]           at (t122212122)              {26};
+%
+\node[index]            at (t1222121221)             {26};
+\node[outdex]           at (t1222121221)             {27};
+%
+\node[index]            at (t1222121222)             {26};
+\node[outdex]           at (t1222121222)             {28};
+%
+\node[index]            at (t12221212221)            {28};
+\node[outdex]           at (t12221212221)            {29};
+%
+\node[index]            at (t12221212222)            {28};
+\node[outdex]           at (t12221212222)            {30};
+%
+\node[index]            at (t1222122)                {18};
+\node[outdex, boxed]    at (t1222122)                {31};
+%
+\node[index]            at (t12221221)               {31};
+\node[outdex]           at (t12221221)               {32};
+%
+\node[index]            at (t12221222)               {31};
+\node[outdex]           at (t12221222)               {33};
+%
+\node[index]            at (t122212221)              {33};
+\node[outdex]           at (t122212221)              {34};
+%
+\node[index]            at (t122212222)              {33};
+\node[outdex]           at (t122212222)              {35};
+%
+%

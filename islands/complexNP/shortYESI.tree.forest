@@ -1,0 +1,46 @@
+[CP, name=CPmatrix
+	[C',
+		[C]
+		[TP, name=TPmatrix
+			[T',
+				[T1]
+				[$v$P,
+					[who, name=who]
+					[$v$',
+						[$v1$]
+						[VP,
+							[made]
+							[DP,
+								[the]
+								[NP,
+									[claim]
+									[CP,
+								[that]
+								[TP, name=TPembedded
+									[T',
+										[T2]
+										[$v$P,
+											[John, name = subj]
+											[$v$',
+												[$v2$]
+												[VP,
+													[bought]
+													[DP,
+													[a]
+													[car]
+													]
+												]
+											]
+										]
+									]
+								]
+							]
+								]
+							]
+						]
+					]
+				]
+			]
+		]
+	]
+]
